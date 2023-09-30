@@ -8,8 +8,7 @@ This project involves web scraping the IMDb website to extract information about
 
 Here is a glimpse of what the Tableau dashboard looks like:
 
-![Dashboard Preview](![Dashboard 1](https://github.com/sriramm04/IMDB_Webscrape_using_python_and_Tableau/assets/129077845/c270dc08-0d9b-4125-a516-68551cd73aaf)
-)
+![Dashboard Preview](https://github.com/sriramm04/IMDB_Webscrape_using_python_and_Tableau/assets/129077845/3a89727c-4111-4ee5-86cd-659110f1dddd)
 
 ## Access the Interactive Dashboard
 
@@ -31,18 +30,21 @@ The data underwent several cleaning and transformation steps:
 
 The Tableau dashboard provides several interactive visualizations:
 
-1. **Top Film Makers by Total Number of Movies**: This bar chart displays the top directors based on the total number of movies in the top 1000 list. It allows users to explore the most prolific directors in IMDb's top-rated movies.
+1. **Film Makers by Movie Rating**: Explore the top directors based on the average rating of their movies within the top 1000 list. Hover over each director to view additional details such as their total number of movies and the highest-rated movie they directed.
 
-2. **Top Film Makers by Ratings of Movies**: This bar chart showcases directors based on the cumulative ratings of their movies in the top 1000 list. Users can identify directors whose movies have received the highest ratings.
+2. **Top Movies by Rating**: Get a glimpse of the highest-rated movies in IMDb's top 1000 list. Hover over each movie to see details like its release year, director, and genre. Discover the cinematic masterpieces that have garnered the highest viewer ratings.
 
-3. **Movies by Year and Total Ratings**: This line chart illustrates the distribution of movies by release year and their total ratings. It helps users understand how the IMDb ratings have evolved over the years.
+3. **Movies by Votes**: Understand which movies have received the most votes from IMDb enthusiasts. Hover over each movie to access information about its release year, director, and genre. Discover the films that have captured the attention and engagement of the audience.
 
-4. **Top 10 Movie Genres**: A pie chart highlights the top 10 movie genres based on their frequency in the top 1000 list. Users can see which genres are the most popular among top-rated movies.
+4. **Genre by Movie Counts**: Uncover the most prevalent movie genres among the top-rated films. Hover over each genre to see the number of movies in that category and the percentage it represents. Identify which genres dominate the list and are favored by IMDb enthusiasts.
+
+5. **Movies by Release Year**: Explore the distribution of movies by their release years. Hover over each year to view the total number of movies released in that year and their cumulative ratings. Gain insights into how IMDb's top 1000 list spans various decades and eras of filmmaking.
+
 
 ## Access the Interactive Dashboard
 
 You can explore the interactive version of this IMDb movie analysis by visiting the following link: [IMDb Interactive Dashboard]([your_tableau_dashboard_link_here](https://public.tableau.com/app/profile/sriram.v4931/viz/ImdbWebScrapeDashboard/Dashboard1)).
 
-Feel free to explore the dashboard to gain deeper insights into the top-rated movies on IMDb. Enjoy your journey through the world of cinema!
+Feel free to dive into the dashboard to gain deeper insights into the top-rated movies on IMDb, and use the tooltips to access additional information. Enjoy your journey through the world of cinema!
 
 For any questions or further information, please contact sriramvenky004@gmail.com.
