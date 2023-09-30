@@ -8,7 +8,8 @@ This project involves web scraping the IMDb website to extract information about
 
 Here is a glimpse of what the Tableau dashboard looks like:
 
-![Dashboard Preview](dashboard_image_link_here)
+![Dashboard Preview](![Dashboard 1](https://github.com/sriramm04/IMDB_Webscrape_using_python_and_Tableau/assets/129077845/c270dc08-0d9b-4125-a516-68551cd73aaf)
+)
 
 ## Access the Interactive Dashboard
 
